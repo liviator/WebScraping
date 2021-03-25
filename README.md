@@ -1,8 +1,8 @@
- #Introduction
+## Introduction
 Voici le rapport mon projet Python de Web Scraping des journaux. Dans ce rapport, j’aborderai le 
 fonctionnement du programme ainsi que les difficultés que j’ai rencontrées. Enfin, je me focaliserai 
 sur les pistes d’améliorations de mon programme.
- #Mon projet
+## Mon projet
 Mon objectif durant ce projet était de faire du scraping des journaux afin de récupérer ses articles 
 pour en faire une synthèse de l’actualité. Pour ce faire, j’ai utilisé BeautifulSoup et request de façon 
 à récupérer le corps du site que je voulais traiter : CNews. A l’aide de BeautifulSoup, je récupère 
