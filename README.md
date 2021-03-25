@@ -27,5 +27,4 @@ méthode Print_detail_article()
 Enfin, j’ai décidé d’implémenter une analyse des sentiments dégagés par les articles de Cnews. Pour 
 cela j’ai utilisé le module NLP textblob et sa variante qui m’intéressait : textblob_fr qui est un 
 module d’analyse de sentiment en français. Je voulais initialement construire mon propre modèle 
-sk_learn, mais je n’ai pas trouvé de dataset correspondant à ce que je recherchais pour l’entrainer et 
-je n’avais pas le temps de vous demander.
+sk_learn, mais je n’ai pas trouvé de dataset correspondant à ce que je recherchais pour l’entrainer.
